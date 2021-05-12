@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "consumer.cbsa.smartapp.sit",
+    "sha256_cert_fingerprints":
+    ["18:EE:2C:3A:D6:D1:7C:14:19:6A:6E:0B:25:67:8F:82:08:EF:9A:5E:A9:37:36:AF:38:22:C8:E6:EA:93:35:D1"]
+  }
+}]
